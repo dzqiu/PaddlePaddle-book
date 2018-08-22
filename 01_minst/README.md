@@ -2,7 +2,7 @@
 This codebase was developed and tested with PaddlePaddle 0.14, CUDA 8.0 and Ubuntu 16.04.
 
 ## Running
-You should install PaddlePaddle using:
+You can install PaddlePaddle using:
 ```bash
 pip install paddlepaddle
 ```
