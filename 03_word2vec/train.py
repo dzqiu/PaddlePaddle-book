@@ -7,7 +7,7 @@ import collections
 import tarfile
 import math
 import os
-
+from reader import build_dict
 EMBED_SIZE = 32
 HIDDEN_SIZE = 256
 N = 5
